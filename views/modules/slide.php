@@ -2,7 +2,7 @@
 
 	<ul>
 		<li>
-		<img src="views/img/ferre1.jpg">
+		<img src="views/img/ferre1.jpg" width="100" height="750">
 		<div class="caption">
 			<h1>Lorem Ipsum</h1>
 			<h3>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</h3>
@@ -10,7 +10,7 @@
 		</li>
 
 		<li>
-		<img src="views/img/ferre2.jpg">
+		<img src="views/img/ferre2.jpg" width="100" height="750">
 		<div class="caption">
 			<h1>Lorem Ipsum</h1>
 			<h3>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</h3>
@@ -18,7 +18,7 @@
 		</li>
 
 		<li>
-		<img src="views/img/ferre3.jpg">
+		<img src="views/img/ferre3.jpg" width="100" height="750">
 		<div class="caption">
 			<h1>Lorem Ipsum</h1>
 			<h3>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</h3>
@@ -26,7 +26,7 @@
 		</li>
 
 		<li>
-			<img src="views/img/ferre4.jpg">
+			<img src="views/img/ferre4.jpg" width="100" height="750">
 		<div class="caption">
 			<h1>Lorem Ipsum</h1>
 			<h3>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.</h3>

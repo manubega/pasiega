@@ -1,9 +1,9 @@
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <a href="#">Nosotros</a>
-  <a href="#">Herramientas</a>
-  <a href="#">Clientes</a>
-  <a href="#">Contacto</a>
+  <a href="#nosotros">Nosotros</a>
+  <a href="#herramientas">Herramientas</a>
+  <a href="#clientes">Clientes</a>
+  <a href="#footer">Contacto</a>
 </div>
 
 <div id="main">

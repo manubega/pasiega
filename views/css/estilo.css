@@ -1,0 +1,34 @@
+ #nosotros {
+    text-align:center;
+    margin-top:50px;
+    margin-bottom:50px;
+            }
+             .ro{
+                padding: 20px 100px 20px 100px;
+                align-items: center;
+            }
+
+            .ro p{
+                float: left;
+                font-size: 22px;
+                text-align: justify;
+
+            }
+
+            .footer{
+            	background-color: orange;
+            	width: 100%;
+            	height: 400px;
+            }
+            .col-sm-4{
+            	top: 25px;
+            }
+           .col-sm-4 h1{
+           	margin-left: 10%;
+           }
+           .col-sm-4 h4{
+           	margin-left: 10%;
+           }
+           .col-sm-4 p{
+           	margin-left: 10%;
+           }

@@ -17,7 +17,10 @@
     <link rel="stylesheet" href="views/css/bootstrap.min.css">
     <link rel="stylesheet" href="views/css/font-awesome.min.css">
     <link rel="stylesheet" href="views/css/style.css">
+     <link rel="stylesheet" href="views/css/estilo.css">
     <link rel="stylesheet" href="views/css/fonts.css">
+   
+    <link rel="stylesheet" type="text/css" href="views/css/styles.css">
     <link rel="stylesheet" href="views/css/cssFancybox/jquery.fancybox.css">
 
     <script type="text/javascript" src = "views/js/email.js"></script>
@@ -34,26 +37,56 @@
 =            MENU            =
 ===========================-->
 
-<?php 
-
-include 'views/modules/header.php';
-
- ?>
+<?php include 'views/modules/header.php';?>
 
 <!--====  End of MENU  ====-->
+
 
 <!--==================================
 =            INICIA SLIDE            =
 ===================================-->
 
-<?php 
-
-include 'views/modules/slide.php';
-
- ?>
-
+<?php include 'views/modules/slide.php';?>
 
 <!--====  End of INICIA SLIDE  ====-->
+
+<!--==============================
+=            NOSOTROS            =
+===============================-->
+<?php include 'views/modules/nosotros.php' ?>
+
+
+<!--====  End of NOSOTROS  ====-->
+
+<!--==================================
+=            HERRAMIENTAS            =
+===================================-->
+<?php include 'views/modules/herramientas.php' ?>
+
+
+<!--====  End of HERRAMIENTAS  ====-->
+
+<!--==============================
+=            CLIENTES            =
+===============================-->
+<?php include 'views/modules/clientes.php' ?>
+
+
+<!--====  End of CLIENTES  ====-->
+
+
+
+
+<!--============================
+=            FOOTER            =
+=============================-->
+
+<?php include 'views/modules/footer.php' ?>
+
+<!--====  End of FOOTER  ====-->
+
+
+
 
 <script type="text/javascript" src = "views/js/src.js"></script>
 
